@@ -20,7 +20,7 @@ I'm a Full Stack Web Application Developer. My experience has provided me with t
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codingwithmuhib.codingwithmuhib)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sultaan-ahmed.sultaan-ahmed)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultaan-ahmed" alt="sultaan-ahmed" /></p>
 
