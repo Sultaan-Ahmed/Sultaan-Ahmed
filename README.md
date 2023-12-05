@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a Full Stack Web & Mobile Application Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
+I'm a Full Stack Web and Mobile Application Developer. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.
 
 
-♥️ I enjoy to make people laugh and coding. <br/>
+♥️ I enjoy making people laugh and coding. <br/>
 📫 How to reach me: [email](sultan.duet.te@gmail.com) or [linkedIn](https://www.linkedin.com/in/md-sultan-ahmed-27b0aa249/) <br/>
 💬 Ask me about anything <br/>
 
